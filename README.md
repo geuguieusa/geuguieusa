@@ -62,3 +62,9 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es" />
 </div>
+
+---
+
+## 📫 Contacto 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermoeuguisanchez/)
