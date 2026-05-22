@@ -49,13 +49,14 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
  
+<table><tr><td align="center">
 ![Repos](https://img.shields.io/badge/Repositorios%20p%C3%BAblicos-17-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Contribuciones](https://img.shields.io/badge/Contribuciones%202025-128-brightgreen?style=for-the-badge&logo=github&logoColor=white)
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://github.com/geuguieusa)
  
+</td></tr></table>
 ---
-<div align="center">
 
