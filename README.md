@@ -60,7 +60,6 @@
 ## Estadísticas de GitHub
  
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geuguieusa&theme=tokyonight&hide_border=true&locale=es&layout=compact" />
 </div>
 <div align="center">
