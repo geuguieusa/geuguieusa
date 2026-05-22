@@ -1,31 +1,61 @@
-# Hola, soy Guillermo Eugui 
+<div align="center">
 
-Estudiante de **1º de DAM** (Desarrollo de Aplicaciones Multiplataforma) apasionado por la tecnología y el desarrollo de software.
+#  Hola, soy Guillermo Eugui
 
-## Sobre mí
+### Estudiante de 1º DAM · me encanta el desarrollo de software y aplicaciones web
 
-- Actualmente cursando **1º de DAM**
--  Subiendo mis trabajos y prácticas de clase en este repositorio
--  Aprendiendo y creciendo cada día como desarrollador
+</div>
+
+---
+
+##  Sobre mí
+
+-  Cursando **1º de DAM** (Desarrollo de Aplicaciones Multiplataforma)
+- Subiendo mis trabajos y prácticas de clase aquí
+- Aprendiendo y mejorando cada día como desarrollador
+- Estudiante en Sevilla (ESP)
+
+---
 
 ##  Tecnologías que estoy aprendiendo
 
+<div align="center">
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=code&logoColor=white)
 ![XSD](https://img.shields.io/badge/XSD-0052CC?style=for-the-badge&logo=apache&logoColor=white)
 ![XPath](https://img.shields.io/badge/XPath-239120?style=for-the-badge&logo=w3c&logoColor=white)
 ![XQuery](https://img.shields.io/badge/XQuery-1572B6?style=for-the-badge&logo=databricks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
 
 ##  Proyectos destacados
 
-- 🔹 **[AF-Individual-UD05.1-XSD-RegEx](https://github.com/geuguieusa/AF-Individual-UD05.1-XSD-RegEx)** — Validación con XSD y expresiones regulares
-- 🔹 **[LDM-Tarea-XPath-Guillermo](https://github.com/geuguieusa/LDM-Tarea-XPath-Guillermo)** — Consultas XPath
-- 🔹 **[AEE.-Reto-de-Refactorización.-TechNova-Cloud-v2.0](https://github.com/geuguieusa/AEE.-Reto-de-Refactorizaci-n.-TechNova-Cloud-v2.0)** — Reto de refactorización cloud
-- 🔹 **[AEE_GreenTech.-UD04.-Economia-Verde-y-Circular](https://github.com/geuguieusa/AEE_GreenTech.-UD04.-Economia-Verde-y-Circular)** — Proyecto de economía verde
+| Proyecto | Descripción |
+|----------|-------------|
+| [ AF-Individual-UD05.1-XSD-RegEx](https://github.com/geuguieusa/AF-Individual-UD05.1-XSD-RegEx) | Validación con XSD y expresiones regulares |
+| [ LDM-Tarea-XPath-Guillermo](https://github.com/geuguieusa/LDM-Tarea-XPath-Guillermo) | Consultas XPath |
+| [ AEE.-Reto-de-Refactorización.-TechNova-Cloud-v2.0](https://github.com/geuguieusa/AEE.-Reto-de-Refactorizaci-n.-TechNova-Cloud-v2.0) | Reto de refactorización cloud |
+| [ AEE_GreenTech.-UD04.-Economia-Verde-y-Circular](https://github.com/geuguieusa/AEE_GreenTech.-UD04.-Economia-Verde-y-Circular) | Proyecto de economía verde en HTML |
+| [ XPath-AEE-Auditoría-de-Infraestructura-Cloud](https://github.com/geuguieusa/XPath-AEE---RA6---CE-e-y-i-.-Auditor-a-de-Infraestructura-Cloud) | Auditoría de infraestructura con XPath |
+| [ Taller-Práctico-XQuery-BaseX](https://github.com/geuguieusa/Taller-Pr-ctico-01-Ingenier-a-Inversa-con-XQuery-y-BaseX) | Ingeniería inversa con XQuery y BaseX |
 
-##  Estadísticas de GitHub
+---
 
-![Guillermo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true)
+## Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geuguieusa&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geuguieusa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/geuguieusa)
+
+</div>
+
+---
+
+<div align="center">
 
