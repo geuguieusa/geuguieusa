@@ -47,19 +47,11 @@
 
 ## 📊 Estadísticas de GitHub
  
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+![Repos](https://img.shields.io/badge/Repositorios%20p%C3%BAblicos-17-blue?style=for-the-badge&logo=github&logoColor=white)
+![Contribuciones](https://img.shields.io/badge/Contribuciones%202025-128-brightgreen?style=for-the-badge&logo=github&logoColor=white)
  
-<br/>
-![Repos](https://img.shields.io/badge/Repositorios%20Públicos-17-blue?style=for-the-badge&logo=github&logoColor=white)
-![Contribuciones](https://img.shields.io/badge/Contribuciones%20(último%20año)-128-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://github.com/geuguieusa)
  
-<br/>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/geuguieusa)
- 
-</div>
 ---
-
-
 <div align="center">
 
