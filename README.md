@@ -38,21 +38,21 @@
 
 ##  Repositorios Destacados
 
-| Proyecto | Descripción |
-|----------|-------------|
-| [ AF-Individual-UD05.1-XSD-RegEx](https://github.com/geuguieusa/AF-Individual-UD05.1-XSD-RegEx) | Validación con XSD y expresiones regulares |
-| [ LDM-Tarea-XPath-Guillermo](https://github.com/geuguieusa/LDM-Tarea-XPath-Guillermo) | Consultas XPath |
-| [ AEE.-Reto-de-Refactorización.-TechNova-Cloud-v2.0](https://github.com/geuguieusa/AEE.-Reto-de-Refactorizaci-n.-TechNova-Cloud-v2.0) | Reto de refactorización cloud |
-| [ AEE_GreenTech.-UD04.-Economia-Verde-y-Circular](https://github.com/geuguieusa/AEE_GreenTech.-UD04.-Economia-Verde-y-Circular) | Proyecto de economía verde en HTML |
-| [ XPath-AEE-Auditoría-de-Infraestructura-Cloud](https://github.com/geuguieusa/XPath-AEE---RA6---CE-e-y-i-.-Auditor-a-de-Infraestructura-Cloud) | Auditoría de infraestructura con XPath |
-| [ Taller-Práctico-XQuery-BaseX](https://github.com/geuguieusa/Taller-Pr-ctico-01-Ingenier-a-Inversa-con-XQuery-y-BaseX) | Ingeniería inversa con XQuery y BaseX |
+| Proyecto | Tecnología | Descripción |
+|----------|------------|-------------|
+| [AF-Individual-UD05.1-XSD-RegEx](https://github.com/geuguieusa/AF-Individual-UD05.1-XSD-RegEx) | XSD · RegEx | Validación de documentos XML con esquemas y expresiones regulares |
+| [Taller-XQuery-BaseX](https://github.com/geuguieusa/Taller-Pr-ctico-01-Ingenier-a-Inversa-con-XQuery-y-BaseX) | XQuery | Ingeniería inversa de datos con XQuery y BaseX |
+| [AEE_GreenTech-Economia-Verde](https://github.com/geuguieusa/AEE_GreenTech.-UD04.-Economia-Verde-y-Circular) | HTML | Proyecto sobre economía verde y circular |
+| [AEE-Explotacion-ERP-CRM](https://github.com/geuguieusa/AEE.-UD07.-Explotacion-Tecnologica-en-ERP-CRM) | ERP/CRM | Explotación tecnológica de sistemas ERP y CRM |
+| [RA4-Limpieza-de-Primavera](https://github.com/geuguieusa/RA-4.-AEE.-Limpieza-de-Primavera) | Java | Proyecto de programación orientada a objetos en Java |
+| [Taller-Ecosistema-Odoo](https://github.com/geuguieusa/Taller-pr-ctico-03-Laboratorio-Ecosistema-Odoo) | Odoo | Laboratorio práctico con el ERP Odoo |
 
 ---
 
 ## Estadísticas de GitHub
  
-![Repos](https://img.shields.io/badge/Repositorios%20p%C3%BAblicos-17-blue?style=for-the-badge&logo=github&logoColor=white)
-![Contribuciones](https://img.shields.io/badge/Contribuciones%202026-128-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositorios%20p%C3%BAblicos-18-blue?style=for-the-badge&logo=github&logoColor=white)
+![Contribuciones](https://img.shields.io/badge/Contribuciones%202025-128-brightgreen?style=for-the-badge&logo=github&logoColor=white)
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://github.com/geuguieusa)
 
