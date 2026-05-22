@@ -58,5 +58,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://github.com/geuguieusa)
  
 </td></tr></table>
----
-
