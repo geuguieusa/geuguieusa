@@ -1,7 +1,5 @@
 <div align="center">
-
-[![Guillermo's GitHub banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Guillermo%20Eugui&fontSize=50&animation=fadeIn&theme=tokyonight)](https://github.com/geuguieusa)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Guillermo%20Eugui&fontSize=50&animation=fadeIn&theme=tokyonight" />
 ### Estudiando 1º de DAM · me encanta el desarrollo de software y aplicaciones web
 
 </div>
@@ -62,15 +60,14 @@
 ## Estadísticas de GitHub
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true&include_all_commits=true" alt="Guillermo's GitHub Stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geuguieusa&theme=tokyonight&hide_border=true&locale=es&layout=compact" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geuguieusa&theme=tokyonight&hide_border=true&locale=es&layout=compact" />
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" />
 </div>
 ---
  
 <div align="center">
-[![Guillermo's GitHub footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=tokyonight)](https://github.com/geuguieusa)
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=tokyonight" />
 </div>
