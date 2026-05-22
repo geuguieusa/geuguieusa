@@ -2,7 +2,7 @@
 
 #  Hola, soy Guillermo Eugui
 
-### Estudiante de 1º DAM · me encanta el desarrollo de software y aplicaciones web
+### Estudiando 1º de DAM · me encanta el desarrollo de software y aplicaciones web
 
 </div>
 
@@ -22,10 +22,14 @@
 <div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=code&logoColor=white)
 ![XSD](https://img.shields.io/badge/XSD-0052CC?style=for-the-badge&logo=apache&logoColor=white)
+![DTD](https://img.shields.io/badge/DTD-6D4C41?style=for-the-badge&logo=files&logoColor=white)
 ![XPath](https://img.shields.io/badge/XPath-239120?style=for-the-badge&logo=w3c&logoColor=white)
 ![XQuery](https://img.shields.io/badge/XQuery-1572B6?style=for-the-badge&logo=databricks&logoColor=white)
+![RegEx](https://img.shields.io/badge/RegEx-FF4500?style=for-the-badge&logo=gnubash&logoColor=white)
+![ERP/CRM](https://img.shields.io/badge/ERP%2FCRM-00897B?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
