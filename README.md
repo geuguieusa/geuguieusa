@@ -18,26 +18,32 @@
 ---
 
 ##  Tecnologías que estoy aprendiendo
-
-### Lenguajes y Frontend
+ 
+###  Lenguajes y Frontend
+ 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tratamiento de Datos y XML
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=code&logoColor=white)
+ 
+###  Tratamiento de Datos y XML
+ 
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![XSD](https://img.shields.io/badge/XSD-0052CC?style=for-the-badge&logo=apache&logoColor=white)
 ![DTD](https://img.shields.io/badge/DTD-6D4C41?style=for-the-badge&logo=files&logoColor=white)
 ![XPath](https://img.shields.io/badge/XPath-239120?style=for-the-badge&logo=w3c&logoColor=white)
 ![XQuery](https://img.shields.io/badge/XQuery-1572B6?style=for-the-badge&logo=databricks&logoColor=white)
-![RegEx](https://img.shields.io/badge/RegEx-FF4500?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Sistemas de Gestión
+![RegEx](https://img.shields.io/badge/RegEx-FF4500?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ 
+###  Sistemas de Gestión
+ 
 ![ERP/CRM](https://img.shields.io/badge/ERP%2FCRM-00897B?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-
-</div>
-
+ 
+###  Sistemas Operativos
+ 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ 
 ---
 
 ##  Repositorios Destacados
@@ -56,10 +62,14 @@
 ## Estadísticas de GitHub
  
 <div align="center">
-
-[![Guillermo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://github.com/geuguieusa)
-
+<img src="https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true&include_all_commits=true" alt="Guillermo's GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geuguieusa&theme=tokyonight&hide_border=true&locale=es&layout=compact" alt="Top Languages" />
 </div>
 ---
+ 
+<div align="center">
+[![Guillermo's GitHub footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=tokyonight)](https://github.com/geuguieusa)
+ 
