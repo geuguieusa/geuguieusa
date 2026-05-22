@@ -73,3 +73,4 @@
 <div align="center">
 [![Guillermo's GitHub footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=tokyonight)](https://github.com/geuguieusa)
  
+</div>
