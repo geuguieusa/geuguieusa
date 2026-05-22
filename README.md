@@ -32,7 +32,7 @@
 
 ---
 
-##  Proyectos destacados
+##  Repositorios Destacados
 
 | Proyecto | Descripción |
 |----------|-------------|
@@ -48,11 +48,15 @@
 ## Estadísticas de GitHub
 
 <div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=geuguieusa&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geuguieusa&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/geuguieusa)
-
+ 
+<br/>
+![Repos](https://img.shields.io/badge/Repositorios%20Públicos-17-blue?style=for-the-badge&logo=github&logoColor=white)
+![Contribuciones](https://img.shields.io/badge/Contribuciones%20(último%20año)-128-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+ 
+<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geuguieusa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/geuguieusa)
+ 
 </div>
 
 ---
