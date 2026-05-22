@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hola, soy Guillermo Eugui
+[![Guillermo's GitHub banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Guillermo%20Eugui&fontSize=50&animation=fadeIn&theme=tokyonight)](https://github.com/geuguieusa)
 
 ### Estudiando 1º de DAM · me encanta el desarrollo de software y aplicaciones web
 
