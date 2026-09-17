@@ -8,10 +8,10 @@
 
 ##  Sobre mí
 
--  Cursando **1º de DAM** (Desarrollo de Aplicaciones Multiplataforma)
+-  Cursando **2º de DAM** (Desarrollo de Aplicaciones Multiplataforma)
 - Subiendo mis trabajos y prácticas de clase aquí
-- Aprendiendo y mejorando cada día como desarrollador
-- Estudiante en Sevilla (ESP)
+- Aprendiendo cada día
+- Estudiante en Sevilla
 
 ---
 
